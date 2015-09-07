@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main02">Main02</string>
+    <string name="title_activity_main03">Main03</string>
+    <string name="title_activity_main04">Main04</string>
+    <string name="title_activity_main05">Main05</string>
+    <string name="title_activity_main11">Main11</string>
+    <string name="title_activity_main06">Main06</string>
+    <string name="title_activity_main12">Main12</string>
+    <string name="title_activity_main13">Main13</string>
+    <string name="title_activity_main14">Main14</string>
+    <string name="title_activity_main15">Main15</string>
+    <string name="title_activity_main16">Main16</string>
+    <string name="title_activity_main17">Main17</string>
+    <string name="title_activity_main18">Main18</string>
+    <string name="title_activity_main19">Main19</string>
+    <string name="title_activity_main20">Main20</string>
+    <string name="title_activity_main21">Main21</string>
+    <string name="title_activity_main22">Main22</string>
+    <string name="title_activity_main23">Main23</string>
+    <string name="title_activity_main24">Main24</string>
+    <string name="title_activity_main25">Main25</string>
+    <string name="title_activity_main26">Main26</string>
+    <string name="title_activity_popup">Popup</string>
+</resources>
