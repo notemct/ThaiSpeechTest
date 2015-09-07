@@ -211,6 +211,13 @@ public class Main11 extends AppCompatActivity {
                             .getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
 
                     txtText.setText(text.get(0));
+                    //Logger.i
+//                    if(text.get(0).equals("ขา")){
+//
+//                    }else {
+//
+//                    }
+//
 
                 }
                 break;
